@@ -1,5 +1,5 @@
 //
-//  ViewController.m
+//  OneViewController.m
 //  ObjectPassing
 //
 //  Created by Chemin Lin on 10/16/13.
